@@ -1,0 +1,14 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:backend": "cd nestjs_practice && yarn start dev",
+    "start:frontend": "cd nextjs_practice && yarn dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
